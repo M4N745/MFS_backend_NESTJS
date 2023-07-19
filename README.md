@@ -1,5 +1,4 @@
-Pakoreguoti
-/src/database/db.config.ts ir .env faila (irašyti savo db prisijungimus)
+### Pakoreguoti /src/database/db.config.ts ir .env faila (irašyti savo db prisijungimus)
 
 
 
